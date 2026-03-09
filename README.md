@@ -64,7 +64,7 @@ It generates more files if you give it enough context — per-product pages, com
 
 ## The Article
 
-This skill is the companion to [Your Company Needs a Brain. Here's How to Give It One](https://adambaitch.substack.com) — a walkthrough of why centralized, agent-readable knowledge bases matter and how to build one.
+This skill is the companion to [Your Company Needs a Brain. Here's How to Give It One](https://adambaitch.substack.com/p/your-company-needs-a-brain-heres) — a walkthrough of why centralized, agent-readable knowledge bases matter and how to build one.
 
 ## License
 
