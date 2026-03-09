@@ -12,11 +12,13 @@ This skill does the tedious part for you: it builds the first draft.
 
 ## How to Install
 
-### Option 1: Add as a Claude skill (recommended)
+### Option 1: Install with the skills CLI (recommended)
 
 ```bash
-npx add-skill adambaitch/company-brain-builder
+npx skills add adambaitch/company-brain-builder
 ```
+
+Works with Claude Code, Cursor, Codex, and other agents that support [SKILL.md](https://github.com/anthropics/skills).
 
 ### Option 2: Manual install
 
